@@ -1,0 +1,121 @@
+.home {
+    width: 100%;
+    height: 750px;
+}
+.home_1 {
+    width: 100%;
+    height: 750px;
+    display: flex;
+    gap: 10px;
+}
+.home_tom {
+    width: 50%;
+    height: 750px;
+}
+.home_j {
+    width: 30%;
+    height: 750px;
+}
+.tom {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.tom1 {
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.tom2 {
+    width: 15%;
+    height: 400px;
+    background-color: black;
+}
+.tom3 {
+    width: 85%;
+    height: 400px;
+}
+.tom4 {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.tom5 {
+    width: 100%;
+    height: 290px;
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.tom6 {
+    width: 60%;
+    height: 290px;
+    background-color: black;
+}
+.tom7 {
+    width: 40%;
+    height: 290px;
+    background-color: black;
+}
+.h_1 {
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+    margin-top: 10px;
+    display: flex;
+}
+.h_2 {
+    width: 40%;
+    height: 100px;
+    background-color: black;
+}
+.h_3 {
+    width: 40%;
+    height: 100px;
+    background-color: black;
+}
+.h_4 {
+    width: 100%;
+    height: 100px;
+    margin-top: 10px;
+    background-color: black;
+}
+.j1 {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+.j2 {
+    width: 100%;
+    height: 400px;
+    /* background-color: black; */
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.j3 {
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+.j4 {
+    width: 50%;
+    height: 400px;
+    /* background-color: black; */
+    gap: 10px;
+    display: flex;
+}
+.j5 {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+} 
+.j6 {
+    width: 100%;
+	height: 200px;
+	margin-top: 10px;
+	display: flex;
+	gap: 15px;
+}
